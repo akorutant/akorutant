@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Python+%7C+JS+%7C+TS+%7C+C%2B%2B+Developer;Building+Cool+Stuff;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+%7C+JS+%7C+TS+%7C+C%2B%2B+Developer;Backend+Developer+at+Dodo+Pizza;Building+Scalable+Systems)
 
 </div>
 
@@ -16,6 +16,7 @@
 
 ## 🛠️ Tech Stack
 
+### Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,8 +24,26 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### Backend & Databases
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+</div>
+
+### DevOps & Tools
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -39,17 +58,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akorutant&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" />
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![MarmokBot](https://github-readme-stats.vercel.app/api/pin/?username=akorutant&repo=MarmokBot&theme=tokyonight)](https://github.com/akorutant/MarmokBot)
-[![TaskHub](https://github-readme-stats.vercel.app/api/pin/?username=akorutant&repo=TaskHub&theme=tokyonight)](https://github.com/akorutant/TaskHub)
-[![SpaceX](https://github-readme-stats.vercel.app/api/pin/?username=akorutant&repo=SpaceX&theme=tokyonight)](https://github.com/akorutant/SpaceX)
-[![pycontester](https://github-readme-stats.vercel.app/api/pin/?username=akorutant&repo=pycontester&theme=tokyonight)](https://github.com/akorutant/pycontester)
-
 </div>
 
 ## 📈 Activity Graph
