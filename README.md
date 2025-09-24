@@ -32,6 +32,7 @@
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
@@ -68,14 +69,16 @@
 
 ## 💻 Coding Time
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <a href="https://wakatime.com/@e2694818-da37-420a-aa7b-46ea74644d7b"><img src="https://wakatime.com/badge/user/e2694818-da37-420a-aa7b-46ea74644d7b.svg" alt="Total time coded since Mar 25 2023" /></a>
+</div>
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akorutant)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saveliyakoru@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=akorutant&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/akorutant)
 
 </div>
