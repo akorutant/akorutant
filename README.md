@@ -48,19 +48,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akorutant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akorutant&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akorutant&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" />
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
